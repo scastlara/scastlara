@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">I'm a Software Engineer living in Barcelona</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +33,4 @@
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
     </a>
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scastlara&show_icons=true&locale=en&layout=compact" alt="scastlara" />
 </p>
