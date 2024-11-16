@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 
+<p>
+I'm a software engineer living and working in <b>Barcelona</b>, Spain.
+</p>
+
+<p>
+Most of what I do is <b>Backend development</b>, but I also enjoy doing some Frontend from time to time.
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sergiocastillolara" target="blank">
