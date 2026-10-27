@@ -5,7 +5,7 @@ I'm a software engineer living and working in <b>Barcelona</b>, Spain.
 </p>
 
 <p>
-Most of what I do is <b>Backend development</b>, but I also enjoy doing some Frontend from time to time.
+Focused on Python, distributed systems, AI agents, and developer tooling.
 </p>
 
 <h3 align="left">Connect with me:</h3>
